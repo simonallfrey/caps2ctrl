@@ -11,6 +11,7 @@ key ZENKAKU_HANKAKU {
 
 # https://android.googlesource.com/platform/frameworks/base/+/cd92588/data/keyboards/Generic.kl
 
+map key 4   ESCAPE            # BACK
 map key 1   ESCAPE            # ESCAPE
 map key 41  GRAVE             # GRAVE
 map key 58  CTRL_LEFT         # CAPS_LOCK
